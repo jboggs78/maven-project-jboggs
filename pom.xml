@@ -19,7 +19,7 @@
     	<derby.version>10.14.2.0</derby.version>
     	
     	<uid>jmboggs</uid>
-    	<pwd>abc</pwd>
+    	<pwd>!WirelessPass90!</pwd>
 	</properties>
 
 	<build>
